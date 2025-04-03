@@ -76,7 +76,6 @@ parso==0.8.4
 pdfminer.six==20250327
 pdfplumber==0.11.6
 pefile==2023.2.7
--e git+ssh://git@github.com/Anum-2017/CLI-Personal-Library-Manager.git@cbc13afb4fe96703113aedaadea01923ac3d349f#egg=personal_library_manager_cli
 pillow==11.1.0
 Pint==0.24.4
 platformdirs==4.3.6
